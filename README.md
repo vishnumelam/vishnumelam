@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-* 🎓 B.Tech Student (Graduate)
+* 🎓 B.Tech (Graduate)
 * 💻 Skilled in **React, Flask, Django, Node.js , HTML , CSS, JavaScript**
 * 🤖 Experienced in **Machine Learning & Deep Learning (CNN, MobileNet, DenseNet)**
 * 🌍 Passionate about **AI in Agriculture & Real-world Solutions**
@@ -78,8 +78,8 @@ Git | GitHub | Postman | VS Code
 ## 📫 Connect With Me
 
 * 📧 Email: [vishnu.melam09@gmail.com](mailto:vishnu.melam09@gmail.com)
-* 💼 LinkedIn: (Add your link)
-* 🌐 Portfolio: (Add after we build it)
+* 💼 LinkedIn: https://www.linkedin.com/in/vishnumelam/
+* 🌐 Portfolio: 
 
 ---
 
